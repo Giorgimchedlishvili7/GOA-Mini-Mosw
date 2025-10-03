@@ -6,9 +6,9 @@ print(username)
 
 number1 = 700
 
-number2 = 600
+number21 = 600
 
-print(number1 + number2)
+print(number1 + number21)
 
 name = "giorgi"
 
