@@ -15,4 +15,8 @@ string2 = "ball"
 
 print (string1 + string2)
 
+# 1: string 2: intenger 3: float
+
+
+
 
