@@ -16,15 +16,14 @@ print (n1+n2+n3)
 
 
 
-a = "hii"
+str1 = input("Enter string")
+print (type(str1))
 
-print (type(a))
+int1 = int(input("enter intiger"))
+print (type(int1))
 
-b = 5.2
-print (type(b))
-
-c = 7
-print (type(c))
+float1 = float(input("enter float"))
+print (type(float1))
 
 
 #The type() is used to say the data type of a value or variable.
