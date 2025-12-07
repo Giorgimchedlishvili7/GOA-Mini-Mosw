@@ -5,8 +5,8 @@
 for i in range(1000):
     print("hello")
 
-    for i in range(100):
-        print(i)
+for i in range(100+1):
+    print(i)
 
-        for i in range(200+1):
-            print(i)
+for i in range(200):
+    print(i)
